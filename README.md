@@ -30,3 +30,7 @@ Page responsivenes wasn't in the initial plan but it was implemented after seein
 
 ### Figma Project
 [Link to Figma Project](https://www.figma.com/proto/EAS8MJCTBePv1ynEomjuQB/cv-website?node-id=1-3&node-type=canvas&t=QSObufeGz1jT5Pxm-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3&share=1)
+
+### Final Project
+[Link to website](https://harjotjosan.github.io/miucv/)
+
